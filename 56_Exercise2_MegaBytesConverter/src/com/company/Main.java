@@ -13,8 +13,8 @@ public class Main {
     public static void printMegaBytesAndKiloBytes(int kiloBytes){
         if(kiloBytes>=0) {
             int megaBytes = kiloBytes / 1024;
-            int restKiloByte =  kiloBytes % 1024;
-            System.out.println(kiloBytes + " KB = " + megaBytes + " MB and " + restKiloByte + " KB" );
+            int restKiloBytes =  kiloBytes % 1024;
+            System.out.println(kiloBytes + " KB = " + megaBytes + " MB and " + restKiloBytes + " KB" );
         }else{
             System.out.println("Invalid Value");
         }
