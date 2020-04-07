@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="1353bda5-8981-4dc9-a4bf-5a96c6dd4e8b" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="IgnoredFileRootStore">
+    <option name="generatedRoots">
+      <set>
+        <option value="C:\Users\federico.walovnik\Documents\GitHub\Java-Programming-Masterclass\56_Exercise4_DecimalComparator\.idea" />
+      </set>
+    </option>
+  </component>
+  <component name="ProjectId" id="1aE2keJ7lL2OpNixYjvLR2qGubj" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="RunManager">
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="com.company.Main" />
+      <module name="56_Exercise4_LeapYearCalculator" />
+      <option name="WORKING_DIRECTORY" value="file://$PROJECT_DIR$" />
+      <RunnerSettings RunnerId="Run" />
+      <ConfigurationWrapper RunnerId="Run" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Main" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="1353bda5-8981-4dc9-a4bf-5a96c6dd4e8b" name="Default Changelist" comment="" />
+      <created>1586286576382</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1586286576382</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="2341" y="96" key="FileChooserDialogImpl" timestamp="1586287846058">
+      <screen x="1920" y="0" width="1280" height="680" />
+    </state>
+    <state x="2341" y="96" key="FileChooserDialogImpl/0.0.1280.680/1920.0.1280.680@1920.0.1280.680" timestamp="1586287846058" />
+    <state width="1237" height="163" key="GridCell.Tab.0.bottom" timestamp="1586287924365">
+      <screen x="1920" y="0" width="1280" height="680" />
+    </state>
+    <state width="1237" height="163" key="GridCell.Tab.0.bottom/0.0.1280.680/1920.0.1280.680@1920.0.1280.680" timestamp="1586287924365" />
+    <state width="1237" height="163" key="GridCell.Tab.0.center" timestamp="1586287924365">
+      <screen x="1920" y="0" width="1280" height="680" />
+    </state>
+    <state width="1237" height="163" key="GridCell.Tab.0.center/0.0.1280.680/1920.0.1280.680@1920.0.1280.680" timestamp="1586287924365" />
+    <state width="1237" height="163" key="GridCell.Tab.0.left" timestamp="1586287924365">
+      <screen x="1920" y="0" width="1280" height="680" />
+    </state>
+    <state width="1237" height="163" key="GridCell.Tab.0.left/0.0.1280.680/1920.0.1280.680@1920.0.1280.680" timestamp="1586287924365" />
+    <state width="1237" height="163" key="GridCell.Tab.0.right" timestamp="1586287924365">
+      <screen x="1920" y="0" width="1280" height="680" />
+    </state>
+    <state width="1237" height="163" key="GridCell.Tab.0.right/0.0.1280.680/1920.0.1280.680@1920.0.1280.680" timestamp="1586287924365" />
+    <state x="2011" y="0" key="new project wizard" timestamp="1586287922856">
+      <screen x="1920" y="0" width="1280" height="680" />
+    </state>
+    <state x="2011" y="0" key="new project wizard/0.0.1280.680/1920.0.1280.680@1920.0.1280.680" timestamp="1586287922856" />
+  </component>
+</project>
